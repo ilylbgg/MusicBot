@@ -13,12 +13,6 @@ This page will describe, in detail, how to obtain a token for your music bot.
 3. On the **General Information** tab, set a Name to identify your application (this is not the bot's name)  
 ![Create App](/assets/images/general-info.png)
 
-4. Navigate to the **Bot** tab and select **Add Bot**  
-![Add Bot](/assets/images/add-bot.png)
-
-5. Click *Yes, do it!*  
-![Yes](/assets/images/yes-do-it.png)
-
 6. Set a name and an avatar (optional)
 ![Settings](/assets/images/customize-bot.png)
 
